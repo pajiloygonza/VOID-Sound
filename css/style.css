@@ -85,23 +85,7 @@ p {
   }
 }
 
-@media (max-width: 410px) {
-  .number {
-    width: 300px;
-  }
-  h1 {
-  }
-  .text_none {
-    width: 220px;
-    height: 45px;
-  }
-  p {
-  }
-  .gonza {
-    width: 150px;
-    height: 18px;
-  }
-}
+
 
 @media (max-width: 300px) {
   .number {
