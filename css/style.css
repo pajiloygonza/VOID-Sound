@@ -20,7 +20,6 @@ h1 {
 .number {
   margin: 0 auto;
   width: 500px;
-  height: 60px;
 }
 h1:hover {
   color: #7a36b1;
@@ -44,7 +43,6 @@ p {
 .text_none:hover {
   color: #7a36b1;
   transition: all 0.5s ease;
-  border: 1px solid red;
   border-radius: 4px;
 }
 .gonza {
@@ -90,7 +88,6 @@ p {
 @media (max-width: 410px) {
   .number {
     width: 300px;
-    height: 50px;
   }
   h1 {
   }
@@ -109,7 +106,6 @@ p {
 @media (max-width: 300px) {
   .number {
     width: 240px;
-    height: 30px;
   }
   h1 {
   }
